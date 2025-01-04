@@ -1,6 +1,6 @@
 
 <h2><a href="https://leetcode.com/problems/unique-length-3-palindromic-subsequences/description/?envType=daily-question&envId=2025-01-04">1930. Unique Length-3 Palindromic Subsequences
-</a></h2> <img src='https://img.shields.io/badge/Difficulty-medium-Orange' alt='Difficulty: Medium' /><hr>
+</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr>
 
 <p>Given a string s, return the number of unique palindromes of length three that are a subsequence of s.</p>
 <P>Note that even if there are multiple ways to obtain the same subsequence, it is still only counted once.</P>
