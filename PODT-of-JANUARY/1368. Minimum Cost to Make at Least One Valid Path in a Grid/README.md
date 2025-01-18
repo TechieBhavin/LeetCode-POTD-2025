@@ -29,15 +29,11 @@ The total cost = 3.
 </pre>
 
 <pre>
-<b>Input:</b> arr[] = [1, 2, 3, 4]
-<b>Output:</b> 0
-<b>Explanation:</b> We cannot trap water as there is no height bound on both sides.
-</pre><hr>
-
-<pre>
 <b>Input:</b> grid = [[1,2],[4,3]]
 <b>Output:</b> 1
 </pre><hr>
+
+
 
 
 
